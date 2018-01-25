@@ -17,6 +17,9 @@ body {
 	padding: 0 45px 20px;
 }
 
+div {
+	display: block;
+}
 /* Write all remaining styles here */
 
 header a {
