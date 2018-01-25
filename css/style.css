@@ -42,3 +42,9 @@ p {
 	color: #1783bb;
 	text-decoration: none;
 }
+
+footer {
+	font-size: .5em;
+	position: bottom, right;
+	
+}
