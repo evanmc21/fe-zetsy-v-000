@@ -26,4 +26,5 @@ header a {
 	font-weight: normal;
 	font-family: 'Baskerville', serif;
 	display: block;
+	text-decoration-line: none;
 }
