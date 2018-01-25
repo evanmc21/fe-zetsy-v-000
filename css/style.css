@@ -3,7 +3,9 @@
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
-
+head {
+	display: none;
+}
 body {
 	background: #F3EBE9;
 	font-size: 100%;
