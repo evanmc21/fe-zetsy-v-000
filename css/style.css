@@ -28,3 +28,7 @@ header a {
 	display: block;
 	text-decoration-line: none;
 }
+
+h2 {
+	color: rgb(126, 128, 122);
+}
