@@ -51,3 +51,7 @@ footer {
 	margin-left: 0px;
 	text-align: right;
 }
+
+#featured img {
+	border: 5px;
+}
